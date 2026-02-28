@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://smnarrace.github.io/sitemap.xml
